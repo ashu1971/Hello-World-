@@ -1,0 +1,7 @@
+public class Print
+{
+public void main(String [] Args)
+{
+System.out.println( "Hello World");
+}
+}
